@@ -1,4 +1,6 @@
 # QA_Guru_Python_14
-Following the White Rabbit 
 
-- HomeWork 3 added in branch HW-3_test_google_search_with_fixture
+This is 4 Homework in QA Guru course about data types in Python.
+
+The task is to resolve issues in test_homework.py
+
